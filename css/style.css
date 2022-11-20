@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(228, 253, 249);
+}
+
+
+.item , img {
+    height: 100%;
+}
+#lightBoxContainer{
+    background-color: rgba(0, 0, 0, 0.568);
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+#lightBox{
+    width: 35%;
+    height: 600px;
+background-position: center;
+background-size: cover;
+}
+i{
+    color: azure;
+}
